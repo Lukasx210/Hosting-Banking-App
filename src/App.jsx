@@ -1,10 +1,10 @@
 import store from "@/store/store";
-import {Provider} from "react-redux";
-import {BrowserRouter} from "react-router-dom";
+import { Provider } from "react-redux";
+import { BrowserRouter } from "react-router-dom";
 
-import {Toaster} from "react-hot-toast";
-import {lazy, Suspense} from "react";
 import PageLoader from "@/components/PageLoader";
+import { lazy, Suspense } from "react";
+import { Toaster } from "react-hot-toast";
 const AppOs = lazy(() => import("./apps/AppOs"));
 
 function App() {
