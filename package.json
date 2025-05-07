@@ -1,9 +1,6 @@
 {
   "name": "block-chain-bank-app",
   "homepage": "https://Lukasx210.github.io/Hosting-Banking-App/",
-  "description": "A simple banking app that allows users to create an account, deposit and withdraw money, and view their transaction history. The app uses Redux for state management and Tailwind CSS for styling.",
-  "author": "Lukasx210",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
