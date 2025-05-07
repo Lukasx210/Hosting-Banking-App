@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118.424" height="36" viewBox="0 0 118.424 36">
+	<g id="Group_2" data-name="Group 2" transform="translate(-628 -375.038)">
+	  <text id="Block_Chain" data-name="Block Chain" transform="translate(665.424 392.038)" fill="#0084d1" stroke="#0084d1" stroke-width="1" font-size="16" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">Block Chain</tspan></text>
+	  <text id="Banking" transform="translate(665.424 406.038)" fill="#0084d1" stroke="#0084d1" stroke-width="1" font-size="16" font-family="SourceSansPro-ExtraLight, Source Sans Pro" font-weight="200"><tspan x="0" y="0">Banking</tspan></text>
+	  <g id="Group_1" data-name="Group 1" transform="translate(-349 154.229)">
+		<path id="Path_1" data-name="Path 1" d="M949.5,338.534h13a12.983,12.983,0,0,0-13-13Z" transform="translate(1958.499 563.343) rotate(180)" fill="#0084d1" stroke="#0084d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+		<path id="Path_2" data-name="Path 2" d="M0,13H13A12.983,12.983,0,0,0,0,0Z" transform="translate(977.667 242.316)" fill="#0084d1" stroke="#0084d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+		<path id="Path_3" data-name="Path 3" d="M0,13H13A12.983,12.983,0,0,0,0,0Z" transform="translate(995.999 255.316) rotate(-90)" fill="#0084d1" stroke="#0084d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+		<path id="Path_1-2" data-name="Path 1" d="M902,542.146c14.664.234,15.892-15.363,15.892-15.363s.721,15.6,16.143,15.363c-15.5.312-16.143,15.909-16.143,15.909S916.742,542.535,902,542.146Z" transform="translate(75.5 -302.153)" fill="#0084d1"/>
+		<path id="Path_4" data-name="Path 4" d="M0,13H13A12.983,12.983,0,0,0,0,0Z" transform="translate(990.5 224.817) rotate(90)" fill="#0084d1" stroke="#0084d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+	  </g>
+	</g>
+  </svg>
+  
