@@ -9,7 +9,7 @@ const AppOs = lazy(() => import("./apps/AppOs"));
 
 function App() {
     return (
-        <BrowserRouter basename="/Hosting-Banking-App">
+        <BrowserRouter basename="/Hosting-Banking-App/">
             <Provider store={store}>
                 <Suspense fallback={<PageLoader />}>
                     <Toaster />

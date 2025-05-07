@@ -16,7 +16,7 @@ export default ({ mode }) => {
   const config = {
     plugins: [react(),tailwindcss()],
     resolve: {
-      base: '/Hosting-Banking-App',
+      base: '/Hosting-Banking-App/',
       alias: {
         '@': path.resolve(__dirname, 'src'),
       },
